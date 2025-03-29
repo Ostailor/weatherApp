@@ -51,10 +51,6 @@ This is a responsive, interactive weather application that displays current weat
 https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=${cityInput}
 ```
 
-## 📸 Screenshots
-
-> *(Add screenshots here for visual context)*
-
 ## 🧩 Future Improvements
 
 - Add forecast (hourly/daily)
